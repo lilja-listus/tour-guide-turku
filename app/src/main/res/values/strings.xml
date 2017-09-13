@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Turku</string>
+    <string name="title_activity_drinks">Drinks</string>
+    <string name="title_activity_events">Events</string>
+    <string name="title_activity_phrases">Phrase</string>
+    <string name="title_activity_places">Places</string>
+    <string name="title_activity_welcome">Turku</string>
+    <string name="about_turku"> Turku is a city on the southwest coast of Finland at the mouth of the Aura River, in the region of Southwest Finland.  \n
+        Turku, as a town, was settled during the 13th century and founded most likely at the end of the same century, making it the oldest city in Finland. It quickly became the most important city in Finland, a status it retained for hundreds of years.
+        \n After Finland became part of the Russian Empire (1809) and the capital of the Grand Duchy of Finland was moved to Helsinki (1812), Turku continued to be the most populous city in Finland until the end of the 1840s, and it remains a regional capital and an important business and cultural center.</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_to_turku">Welcome to Turku</string>
+</resources>
